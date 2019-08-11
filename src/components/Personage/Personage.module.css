@@ -1,0 +1,72 @@
+.img{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    padding-bottom: 36px;
+}
+
+.helmets, .gloves, .chests, .boots, .swords {
+    position: absolute;
+}
+
+.helmets {
+    top: 11px;
+    left: 52px;
+}
+
+.gloves {
+    top: 149px;
+    left: 7px;
+    z-index: 2;
+}
+
+.chests {
+    top: 90px;
+    left: 53px;
+    z-index: 1;
+}
+
+.boots {
+    bottom: 26px;
+    left: 36px;
+}
+
+.swords {
+    top: 215px;
+    right: 32px;
+    transform: scale(1.4);
+}
+
+.name {
+    margin-bottom: 20px;
+}
+
+.stats span {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.name, .stats{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.name>div, .stats>div{
+    flex-basis: 80px;
+}
+
+.statsRightBlock > div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.indicators {
+    flex-basis: 50px;
+}
+
+.indicatorsImg{
+    width: 20px;
+    display: flex;
+    justify-content: center;
+}

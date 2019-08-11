@@ -1,0 +1,70 @@
+.title {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 38px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.customizationBlock{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.categoryName{
+    flex-basis: 29%;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 25px;
+    width: 55px;
+}
+
+.select{
+    width: 100%;
+}
+
+.select select {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0.65rem 1rem;
+    background: transparent url('../../img/selectArrow.svg') 93% 50% no-repeat;
+    border: 1px solid #727272;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    outline: none;
+    font-size: 14px;
+}
+
+/*.select::after {*/
+/*    content: url('../../img/selectArrow.svg');*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    right: 5px;*/
+/*    width: 8px;*/
+/*    height: 4px;*/
+/*    background-color: black;*/
+/*    !*background: transparent url('../../img/selectArrow.svg') center no-repeat;*!*/
+/*}*/
+
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: #727272;
+    margin: 25px 0;
+}
+
+.cost{
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000
+}
