@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kirill-lalala/.github.io/game/static/css/main.cb10e96c.chunk.css",
+    "main.js": "/kirill-lalala/.github.io/game/static/js/main.c95af904.chunk.js",
+    "main.js.map": "/kirill-lalala/.github.io/game/static/js/main.c95af904.chunk.js.map",
+    "runtime~main.js": "/kirill-lalala/.github.io/game/static/js/runtime~main.ccfa76fe.js",
+    "runtime~main.js.map": "/kirill-lalala/.github.io/game/static/js/runtime~main.ccfa76fe.js.map",
+    "static/js/2.19004664.chunk.js": "/kirill-lalala/.github.io/game/static/js/2.19004664.chunk.js",
+    "static/js/2.19004664.chunk.js.map": "/kirill-lalala/.github.io/game/static/js/2.19004664.chunk.js.map",
+    "index.html": "/kirill-lalala/.github.io/game/index.html",
+    "precache-manifest.b9235a3d1aeb24718b6fcec314b6baab.js": "/kirill-lalala/.github.io/game/precache-manifest.b9235a3d1aeb24718b6fcec314b6baab.js",
+    "service-worker.js": "/kirill-lalala/.github.io/game/service-worker.js",
+    "static/css/main.cb10e96c.chunk.css.map": "/kirill-lalala/.github.io/game/static/css/main.cb10e96c.chunk.css.map",
+    "static/media/heart.svg": "/kirill-lalala/.github.io/game/static/media/heart.f03ead55.svg",
+    "static/media/Shop.module.css": "/kirill-lalala/.github.io/game/static/media/selectArrow.684bae1b.svg",
+    "static/media/shield.svg": "/kirill-lalala/.github.io/game/static/media/shield.0006efe7.svg",
+    "static/media/sword.svg": "/kirill-lalala/.github.io/game/static/media/sword.9002fed5.svg"
+  }
+}
