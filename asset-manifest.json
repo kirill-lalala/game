@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rpg-game/static/css/main.01019990.chunk.css",
-    "main.js": "/rpg-game/static/js/main.7205bd64.chunk.js",
-    "main.js.map": "/rpg-game/static/js/main.7205bd64.chunk.js.map",
-    "runtime~main.js": "/rpg-game/static/js/runtime~main.187ec93f.js",
-    "runtime~main.js.map": "/rpg-game/static/js/runtime~main.187ec93f.js.map",
-    "static/js/2.19004664.chunk.js": "/rpg-game/static/js/2.19004664.chunk.js",
-    "static/js/2.19004664.chunk.js.map": "/rpg-game/static/js/2.19004664.chunk.js.map",
-    "index.html": "/rpg-game/index.html",
-    "precache-manifest.ad8004573b2093712a53e539e4429735.js": "/rpg-game/precache-manifest.ad8004573b2093712a53e539e4429735.js",
-    "service-worker.js": "/rpg-game/service-worker.js",
-    "static/css/main.01019990.chunk.css.map": "/rpg-game/static/css/main.01019990.chunk.css.map",
-    "static/media/heart.svg": "/rpg-game/static/media/heart.f03ead55.svg",
-    "static/media/Shop.module.css": "/rpg-game/static/media/selectArrow.684bae1b.svg",
-    "static/media/shield.svg": "/rpg-game/static/media/shield.0006efe7.svg",
-    "static/media/sword.svg": "/rpg-game/static/media/sword.9002fed5.svg"
+    "main.css": "/game/static/css/main.374cf9e1.chunk.css",
+    "main.js": "/game/static/js/main.f3adeed5.chunk.js",
+    "main.js.map": "/game/static/js/main.f3adeed5.chunk.js.map",
+    "runtime~main.js": "/game/static/js/runtime~main.2d0fbc73.js",
+    "runtime~main.js.map": "/game/static/js/runtime~main.2d0fbc73.js.map",
+    "static/js/2.19004664.chunk.js": "/game/static/js/2.19004664.chunk.js",
+    "static/js/2.19004664.chunk.js.map": "/game/static/js/2.19004664.chunk.js.map",
+    "index.html": "/game/index.html",
+    "precache-manifest.ad9b6ccd843a61de9d545dd7a8351f3e.js": "/game/precache-manifest.ad9b6ccd843a61de9d545dd7a8351f3e.js",
+    "service-worker.js": "/game/service-worker.js",
+    "static/css/main.374cf9e1.chunk.css.map": "/game/static/css/main.374cf9e1.chunk.css.map",
+    "static/media/heart.svg": "/game/static/media/heart.f03ead55.svg",
+    "static/media/Shop.module.css": "/game/static/media/selectArrow.684bae1b.svg",
+    "static/media/shield.svg": "/game/static/media/shield.0006efe7.svg",
+    "static/media/sword.svg": "/game/static/media/sword.9002fed5.svg"
   }
 }
